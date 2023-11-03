@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:link_aja/app/widget/appBar.dart';
 import 'package:carousel_slider/carousel_slider.dart';
 
 
@@ -476,6 +477,7 @@ class HomePage extends StatelessWidget {
           ),
         ],
       ),
+      bottomNavigationBar: Navbar(),
     );
   }
 }
