@@ -44,7 +44,9 @@ class _NavbarState extends State<Navbar> {
                 Navigator.of(context).pushNamed('/home');
               } else if (index == 1){
                 Navigator.of(context).pushNamed('/history');
-              }
+              } else if (index == 3){
+                Navigator.of(context).pushNamed('/inbox');
+              } 
             }, 
             items: [
               itemBar(Icons.home, "Home"),

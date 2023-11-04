@@ -18,3 +18,5 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets: # Daftar aset yang akan digunakan dalam proyek
+    - assets/splash.jpg

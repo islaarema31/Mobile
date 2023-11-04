@@ -329,7 +329,7 @@ class HomePage extends StatelessWidget {
                     children: [
                       Column(
                       children: [
-                        Image.network('https://cdn-icons-png.flaticon.com/128/15/15874.png',
+                        Image.network('https://cdn-icons-png.flaticon.com/128/2482/2482945.png',
                           width: 40,
                           height: 40,
                           ),
@@ -344,7 +344,7 @@ class HomePage extends StatelessWidget {
                     ),
                     Column(
                       children: [
-                        Image.network('https://cdn-icons-png.flaticon.com/128/3185/3185876.png',
+                        Image.network('https://cdn-icons-png.flaticon.com/128/616/616494.png',
                           width: 40,
                           height: 40,
                           ),
@@ -359,7 +359,7 @@ class HomePage extends StatelessWidget {
                     ),
                     Column(
                       children: [
-                        Image.network('https://cdn-icons-png.flaticon.com/128/2927/2927067.png',
+                        Image.network('https://cdn-icons-png.flaticon.com/128/2382/2382461.png',
                           width: 40,
                           height: 40,
                           ),
@@ -374,7 +374,7 @@ class HomePage extends StatelessWidget {
                     ),
                     Column(
                       children: [
-                        Image.network('https://cdn-icons-png.flaticon.com/128/686/686589.png',
+                        Image.network('https://cdn-icons-png.flaticon.com/128/2331/2331852.png',
                           width: 40,
                           height: 40,
                           ),
@@ -393,7 +393,7 @@ class HomePage extends StatelessWidget {
                     children: [
                       Column(
                       children: [
-                        Image.network('https://cdn-icons-png.flaticon.com/128/4197/4197742.png',
+                        Image.network('https://cdn-icons-png.flaticon.com/128/6822/6822064.png',
                           width: 40,
                           height: 40,
                           ),
@@ -408,7 +408,7 @@ class HomePage extends StatelessWidget {
                     ),
                     Column(
                       children: [
-                        Image.network('https://cdn-icons-png.flaticon.com/128/606/606797.png',
+                        Image.network('https://cdn-icons-png.flaticon.com/128/427/427112.png',
                           width: 40,
                           height: 40,
                           ),
@@ -423,7 +423,7 @@ class HomePage extends StatelessWidget {
                     ),
                     Column(
                       children: [
-                        Image.network('https://cdn-icons-png.flaticon.com/128/9409/9409781.png',
+                        Image.network('https://cdn-icons-png.flaticon.com/128/9334/9334539.png',
                           width: 40,
                           height: 40,
                           ),
